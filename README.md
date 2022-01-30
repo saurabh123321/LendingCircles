@@ -7,4 +7,4 @@ A Node.Js based P2P lending app that provides a platform for users in a group to
 ![Screenshot](./SS/prof.png)
 ![Screenshot](./SS/dash.png)
 
-![Screenshot](./SS/prof.png)
+![Screenshot](./SS/auth.png)
